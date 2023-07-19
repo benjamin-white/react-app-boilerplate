@@ -1,0 +1,6 @@
+.Hello {
+  & h1 {
+    margin-bottom: 0.25em;
+    font-size: 3rem;
+  }
+}

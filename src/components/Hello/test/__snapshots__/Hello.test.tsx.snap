@@ -1,0 +1,11 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Hello > renders a Hello component 1`] = `
+<div
+  class="_Hello_dcff92"
+>
+  <h1>
+    Hello Human
+  </h1>
+</div>
+`;
